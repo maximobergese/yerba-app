@@ -46,7 +46,7 @@ body {
   position: absolute;
   inset: 0;
   background-image: radial-gradient(circle at 85% 20%, rgba(239,230,210,0.06) 0, transparent 45%),
-                     radial-gradient(circle at 10% 90%, rgba(193,96,47,0.10) 0, transparent 40%);
+                    radial-gradient(circle at 10% 90%, rgba(193,96,47,0.10) 0, transparent 40%);
 }
 
 .eyebrow {

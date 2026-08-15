@@ -20,3 +20,6 @@ CREATE TABLE IF NOT EXISTS opiniones (
   INDEX idx_fecha (fecha_creacion),
   INDEX idx_oculta (oculta)
 ) ENGINE=InnoDB;
+
+
+
